@@ -1,5 +1,6 @@
 { title }: body:
-withDoctype (
+
+DOCTYPE
 <html>{lang="en";}
   <head>
     <meta.>{charset="UTF-8";}
@@ -26,4 +27,4 @@ withDoctype (
 
     body
   <.body>
-<.html>)
+<.html>
