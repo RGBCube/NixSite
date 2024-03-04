@@ -1,4 +1,4 @@
-(call ./_base.nix) {
+call ./_base.nix {
   title = "Hello, Nix!";
 } (
 <h1>"Hello, Nix!"<.h1>
